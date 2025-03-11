@@ -12,4 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shankar3804&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shankar3804&theme=dark&hide_border=true)<br/>
 
+# 💬 :
 
+("I’m not saying crypto is the future… but my portfolio is 90% hopium and 10% ‘why is this coin named after a dog?’" 🐕💸).<br/>
