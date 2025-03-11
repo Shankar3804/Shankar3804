@@ -11,5 +11,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shankar3804&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shankar3804&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankar3804&theme=dark&hide_border=true&layout=compact&exclude=java,node&include=vbnet,solidity&custom_title=Dominant%20Tech%20Footprint)
+
 
