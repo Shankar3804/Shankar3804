@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/b5163142-ddb8-4851-b7e7-78a95938bf81)
 
 # 💫 About Me:
 🔭 Currently working on: Web3 and Blockchain network testing<br>👯 Looking to collaborate on: Crypto-related stuff, DeFi, NFTs, smart contracts<br>🌱 Currently learning: React, Solidity, Blockchain development<br>💬 Ask me about: Anything related to blockchain, smart contracts, decentralized applications (dApps), or crypto.<br>⚡ Fun fact: The first Bitcoin transaction was used to buy two pizzas for 10,000 BTC — worth millions today!
