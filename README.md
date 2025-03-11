@@ -14,4 +14,4 @@
 
 # 💬 :
 
-("I’m not saying crypto is the future… but my portfolio is 90% hopium and 10% ‘why is this coin named after a dog?’" 🐕💸).<br/>
+"I’m not saying crypto is the future… but my portfolio is 90% hopium and 10% ‘why is this coin named after a dog?’" 🐕💸
